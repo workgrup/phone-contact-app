@@ -1,7 +1,8 @@
-# Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
+# Phonegap Phone Contacts App [![bitHound Score][bithound-img]][bithound-url]
 
-A PhoneGap Hello World template
+A PhoneGap app for android
 
+Steps to create android app from start using PhoneGap CLI 
 ## Usage
 
 #### PhoneGap CLI
